@@ -1,0 +1,305 @@
+incident_id,site_id,supplier_id,incident_date,incident_type,operational_impact_level,downtime_hours,cost_impact_zar
+INC00001,SITE_12,S0022,2026-04-03,Partial delivery disruption,Medium,2.41,168873.45
+INC00002,SITE_06,S0013,2026-02-27,Partial delivery disruption,Low,2.31,190825.63
+INC00003,SITE_12,S0048,2025-11-09,Delayed critical spare,High,8.69,699117.19
+INC00004,SITE_11,S0090,2026-03-30,Quality-related rework,Medium,7.77,525960.79
+INC00005,SITE_02,S0103,2025-11-11,Partial delivery disruption,Low,1.85,71233.51
+INC00006,SITE_08,S0089,2025-12-08,Transport delay,Medium,7.98,585698.89
+INC00007,SITE_02,S0111,2025-11-03,Partial delivery disruption,Medium,7.78,453902.15
+INC00008,SITE_04,S0087,2026-04-08,Transport delay,High,6.82,188438.58
+INC00009,SITE_02,S0091,2026-02-01,Partial delivery disruption,Medium,2.67,102959.92
+INC00010,SITE_07,S0013,2026-03-02,Partial delivery disruption,Critical,25.59,1284094.92
+INC00011,SITE_09,S0091,2025-12-28,Partial delivery disruption,Medium,2.01,163223.51
+INC00012,SITE_03,S0102,2026-02-01,Partial delivery disruption,Critical,23.31,1221267.36
+INC00013,SITE_04,S0014,2026-01-26,Partial delivery disruption,Medium,6.44,469640.82
+INC00014,SITE_08,S0082,2025-11-04,Partial delivery disruption,Critical,39.73,1519249.37
+INC00015,SITE_01,S0016,2025-10-30,Partial delivery disruption,Medium,2.98,137607.09
+INC00016,SITE_02,S0018,2026-03-16,Transport delay,High,10.23,620774.35
+INC00017,SITE_10,S0004,2026-01-11,Quality-related rework,Low,2.18,69236.63
+INC00018,SITE_09,S0056,2026-03-22,Partial delivery disruption,High,10.25,604300.53
+INC00019,SITE_01,S0029,2026-01-06,Partial delivery disruption,Medium,3.35,144668.34
+INC00020,SITE_03,S0043,2026-04-02,Partial delivery disruption,High,9.18,637963.14
+INC00021,SITE_04,S0059,2025-12-04,Partial delivery disruption,Medium,5.77,454053.12
+INC00022,SITE_07,S0030,2025-10-26,Partial delivery disruption,Medium,4.81,177118.7
+INC00023,SITE_05,S0013,2025-12-13,Partial delivery disruption,Medium,7.75,547783.53
+INC00024,SITE_08,S0110,2026-04-07,Delayed critical spare,Medium,6.78,536155.9
+INC00025,SITE_01,S0069,2025-12-29,Partial delivery disruption,High,12.96,1084644.03
+INC00026,SITE_03,S0008,2026-04-17,Partial delivery disruption,Medium,3.58,268328.94
+INC00027,SITE_05,S0009,2025-10-22,Partial delivery disruption,Medium,3.74,192901.97
+INC00028,SITE_11,S0053,2025-12-15,Partial delivery disruption,Medium,6.56,165245.55
+INC00029,SITE_01,S0030,2025-12-07,Partial delivery disruption,Medium,4.43,266777.07
+INC00030,SITE_06,S0107,2026-03-01,Partial delivery disruption,Medium,7.47,462319.17
+INC00031,SITE_04,S0089,2026-03-31,Partial delivery disruption,Medium,6.3,285657.04
+INC00032,SITE_08,S0082,2026-01-11,Partial delivery disruption,Low,2.31,183906.03
+INC00033,SITE_06,S0089,2026-02-01,Partial delivery disruption,Medium,5.75,297458.66
+INC00034,SITE_07,S0036,2026-02-19,Partial delivery disruption,Medium,4.58,253334.92
+INC00035,SITE_11,S0039,2026-02-09,Partial delivery disruption,Low,1.58,42025.39
+INC00036,SITE_02,S0060,2026-03-16,Transport delay,Critical,21.63,810426.51
+INC00037,SITE_09,S0023,2026-04-05,Partial delivery disruption,Low,1.94,138608.16
+INC00038,SITE_02,S0002,2025-12-17,Partial delivery disruption,Medium,6.84,198411.72
+INC00039,SITE_11,S0099,2025-12-16,Partial delivery disruption,High,9.92,719855.4
+INC00040,SITE_12,S0020,2026-01-22,Partial delivery disruption,Low,0.69,54587.95
+INC00041,SITE_11,S0030,2026-02-06,Transport delay,Critical,40.22,2311634.4
+INC00042,SITE_12,S0114,2026-02-16,Transport delay,Low,1.26,33768.87
+INC00043,SITE_03,S0050,2025-12-19,Quality-related rework,Critical,40.67,1427652.89
+INC00044,SITE_08,S0116,2026-04-09,Partial delivery disruption,Critical,17.59,1413566.6
+INC00045,SITE_10,S0063,2025-12-25,Partial delivery disruption,High,8.24,381405.6
+INC00046,SITE_10,S0050,2026-04-08,Partial delivery disruption,Low,1.53,117002.24
+INC00047,SITE_05,S0071,2026-03-01,Documentation hold,Medium,6.23,401185.08
+INC00048,SITE_08,S0022,2026-02-01,Partial delivery disruption,Medium,4.19,339605.38
+INC00049,SITE_08,S0097,2025-11-14,Partial delivery disruption,Medium,6.35,252946.34
+INC00050,SITE_04,S0005,2026-03-25,Delayed critical spare,Low,2.41,72284.77
+INC00051,SITE_06,S0005,2026-04-01,Delayed critical spare,Medium,3.85,309518.47
+INC00052,SITE_08,S0112,2025-10-23,Documentation hold,Critical,34.82,1816508.72
+INC00053,SITE_10,S0038,2026-04-01,Delayed critical spare,Medium,6.41,473099.14
+INC00054,SITE_06,S0050,2025-11-21,Partial delivery disruption,Medium,6.98,394171.3
+INC00055,SITE_01,S0073,2026-01-31,Partial delivery disruption,Low,2.1,174962.31
+INC00056,SITE_03,S0053,2026-03-01,Delayed critical spare,Critical,18.01,1082299.1
+INC00057,SITE_04,S0114,2025-12-07,Partial delivery disruption,Medium,4.43,325245.18
+INC00058,SITE_12,S0087,2026-01-26,Partial delivery disruption,Medium,7.96,532793.87
+INC00059,SITE_05,S0025,2026-02-18,Partial delivery disruption,Low,1.92,158614.32
+INC00060,SITE_11,S0017,2025-10-23,Delayed critical spare,Critical,30.48,2441172.56
+INC00061,SITE_09,S0080,2026-03-12,Partial delivery disruption,High,12.9,984357.11
+INC00062,SITE_03,S0066,2025-11-25,Partial delivery disruption,High,6.62,303441.72
+INC00063,SITE_06,S0051,2026-04-01,Partial delivery disruption,Low,1.89,57423.01
+INC00064,SITE_05,S0073,2026-03-04,Delayed critical spare,Medium,3.07,216548.01
+INC00065,SITE_07,S0038,2025-11-17,Quality-related rework,Medium,7.12,399300.6
+INC00066,SITE_12,S0033,2025-11-22,Partial delivery disruption,High,14.54,563368.94
+INC00067,SITE_02,S0114,2026-01-31,Partial delivery disruption,Medium,4.42,161410.85
+INC00068,SITE_03,S0113,2026-01-23,Transport delay,High,16.39,945794.18
+INC00069,SITE_03,S0067,2026-04-09,Partial delivery disruption,Low,0.76,45104.31
+INC00070,SITE_04,S0052,2026-03-30,Partial delivery disruption,Low,2.89,101455.81
+INC00071,SITE_12,S0095,2026-04-16,Partial delivery disruption,Medium,2.25,64051.8
+INC00072,SITE_02,S0074,2025-12-19,Partial delivery disruption,Critical,26.68,2251665.83
+INC00073,SITE_12,S0047,2026-04-08,Partial delivery disruption,Medium,6.68,351349.03
+INC00074,SITE_12,S0019,2026-01-18,Partial delivery disruption,Low,1.27,33552.06
+INC00075,SITE_01,S0005,2025-12-25,Partial delivery disruption,Medium,5.99,326997.02
+INC00076,SITE_06,S0050,2026-03-20,Partial delivery disruption,Low,1.61,66638.85
+INC00077,SITE_10,S0070,2025-10-26,Partial delivery disruption,Medium,4.34,183788.95
+INC00078,SITE_08,S0017,2025-11-24,Documentation hold,High,9.76,254557.51
+INC00079,SITE_07,S0004,2026-04-23,Partial delivery disruption,High,11.64,974430.36
+INC00080,SITE_03,S0096,2026-01-03,Partial delivery disruption,High,7.59,554477.94
+INC00081,SITE_07,S0019,2025-11-08,Partial delivery disruption,Critical,41.69,1274543.78
+INC00082,SITE_03,S0085,2025-12-09,Partial delivery disruption,Low,2.27,69019.73
+INC00083,SITE_09,S0009,2026-01-08,Partial delivery disruption,Medium,5.21,224787.69
+INC00084,SITE_10,S0107,2025-12-14,Partial delivery disruption,High,8.25,508081.3
+INC00085,SITE_03,S0027,2026-04-25,Partial delivery disruption,Low,2.67,161478.21
+INC00086,SITE_08,S0107,2026-02-06,Quality-related rework,Medium,2.95,180643.28
+INC00087,SITE_01,S0094,2025-11-21,Partial delivery disruption,High,6.04,213023.48
+INC00088,SITE_11,S0043,2026-01-27,Partial delivery disruption,Medium,6.6,435505.22
+INC00089,SITE_06,S0075,2026-03-20,Partial delivery disruption,Low,1.06,78402.21
+INC00090,SITE_05,S0113,2026-02-16,Partial delivery disruption,Medium,3.79,223655.94
+INC00091,SITE_08,S0024,2026-02-07,Partial delivery disruption,Critical,28.2,883771.84
+INC00092,SITE_02,S0092,2026-04-15,Partial delivery disruption,Low,1.05,44855.33
+INC00093,SITE_01,S0072,2026-01-25,Partial delivery disruption,Medium,5.73,444485.81
+INC00094,SITE_02,S0042,2025-12-04,Partial delivery disruption,High,8.58,644248.46
+INC00095,SITE_08,S0051,2026-01-23,Partial delivery disruption,Medium,3.05,190361.28
+INC00096,SITE_11,S0046,2026-01-01,Partial delivery disruption,High,11.68,500797.55
+INC00097,SITE_03,S0055,2025-11-02,Partial delivery disruption,High,10.83,552149.54
+INC00098,SITE_04,S0034,2026-01-02,Partial delivery disruption,Low,1.59,93725.58
+INC00099,SITE_04,S0028,2026-01-23,Partial delivery disruption,Low,0.6,23034.17
+INC00100,SITE_06,S0071,2025-11-13,Partial delivery disruption,Medium,4.44,127198.45
+INC00101,SITE_10,S0042,2026-03-30,Partial delivery disruption,Critical,18.44,543913.78
+INC00102,SITE_03,S0119,2026-03-20,Partial delivery disruption,Low,1.33,83442.07
+INC00103,SITE_10,S0119,2026-03-24,Delayed critical spare,Medium,3.93,282152.4
+INC00104,SITE_01,S0014,2025-11-27,Delayed critical spare,High,15.93,572780.91
+INC00105,SITE_03,S0088,2025-11-22,Partial delivery disruption,High,15.93,819757.27
+INC00106,SITE_08,S0093,2026-02-16,Quality-related rework,Low,2.28,71768.27
+INC00107,SITE_05,S0044,2025-11-15,Partial delivery disruption,Medium,4.79,169663.02
+INC00108,SITE_01,S0049,2026-02-01,Delayed critical spare,High,13.0,387774.58
+INC00109,SITE_08,S0079,2026-04-08,Partial delivery disruption,Low,2.41,99560.38
+INC00110,SITE_05,S0043,2025-12-17,Partial delivery disruption,Medium,6.41,402325.07
+INC00111,SITE_07,S0077,2026-01-18,Partial delivery disruption,Medium,7.62,348640.58
+INC00112,SITE_08,S0109,2026-03-11,Partial delivery disruption,Low,1.07,36144.62
+INC00113,SITE_04,S0004,2026-02-23,Partial delivery disruption,Low,1.76,65000.33
+INC00114,SITE_04,S0005,2025-11-19,Partial delivery disruption,High,15.63,1328068.19
+INC00115,SITE_02,S0022,2026-04-22,Partial delivery disruption,Medium,7.19,564497.07
+INC00116,SITE_01,S0042,2025-12-03,Partial delivery disruption,Medium,6.05,339561.86
+INC00117,SITE_09,S0082,2026-01-11,Partial delivery disruption,High,8.29,345018.9
+INC00118,SITE_07,S0097,2026-04-04,Partial delivery disruption,Medium,4.3,163574.86
+INC00119,SITE_08,S0011,2025-10-25,Partial delivery disruption,Critical,20.05,974730.09
+INC00120,SITE_08,S0073,2026-04-14,Quality-related rework,Critical,36.64,1708782.06
+INC00121,SITE_02,S0026,2025-12-11,Transport delay,Critical,33.72,1262835.24
+INC00122,SITE_09,S0014,2026-02-04,Partial delivery disruption,Low,2.8,217752.8
+INC00123,SITE_07,S0049,2026-02-02,Partial delivery disruption,Medium,6.05,347427.55
+INC00124,SITE_02,S0093,2025-12-25,Partial delivery disruption,Medium,2.57,65508.64
+INC00125,SITE_02,S0091,2025-11-25,Partial delivery disruption,High,8.29,371010.46
+INC00126,SITE_01,S0025,2026-04-13,Partial delivery disruption,Low,2.07,68134.11
+INC00127,SITE_04,S0018,2026-02-07,Partial delivery disruption,Medium,5.91,316842.17
+INC00128,SITE_05,S0002,2025-12-02,Partial delivery disruption,Medium,2.08,128335.92
+INC00129,SITE_04,S0029,2025-12-08,Delayed critical spare,Medium,6.5,369458.1
+INC00130,SITE_07,S0025,2026-04-17,Partial delivery disruption,High,12.43,1010837.71
+INC00131,SITE_03,S0086,2025-12-10,Quality-related rework,Critical,39.15,3120486.86
+INC00132,SITE_07,S0022,2026-02-12,Partial delivery disruption,Critical,17.33,887452.69
+INC00133,SITE_02,S0071,2025-11-24,Partial delivery disruption,Low,0.73,40177.58
+INC00134,SITE_06,S0107,2025-12-11,Partial delivery disruption,Low,0.78,25231.5
+INC00135,SITE_04,S0017,2025-12-21,Documentation hold,Low,2.84,187877.78
+INC00136,SITE_12,S0059,2025-11-09,Partial delivery disruption,Low,0.67,22398.51
+INC00137,SITE_04,S0044,2026-02-03,Partial delivery disruption,Medium,6.61,200065.84
+INC00138,SITE_11,S0077,2026-02-01,Partial delivery disruption,Medium,4.4,112776.0
+INC00139,SITE_07,S0083,2026-01-30,Partial delivery disruption,Low,0.91,24280.13
+INC00140,SITE_05,S0117,2026-01-03,Partial delivery disruption,Low,2.15,61277.36
+INC00141,SITE_08,S0078,2026-03-28,Partial delivery disruption,Medium,2.51,94838.88
+INC00142,SITE_09,S0037,2026-02-14,Partial delivery disruption,Low,1.16,74640.61
+INC00143,SITE_01,S0089,2026-01-05,Partial delivery disruption,Medium,5.15,243298.71
+INC00144,SITE_02,S0098,2025-12-17,Partial delivery disruption,Medium,7.41,334431.09
+INC00145,SITE_12,S0079,2026-01-02,Partial delivery disruption,Medium,2.91,84653.83
+INC00146,SITE_08,S0049,2026-02-27,Transport delay,Medium,3.91,157416.28
+INC00147,SITE_06,S0064,2026-01-22,Delayed critical spare,Low,2.48,173949.02
+INC00148,SITE_09,S0048,2025-11-09,Documentation hold,Medium,3.01,224945.05
+INC00149,SITE_05,S0036,2025-11-17,Partial delivery disruption,Low,0.61,40094.77
+INC00150,SITE_09,S0074,2026-03-15,Partial delivery disruption,Critical,33.37,1731815.41
+INC00151,SITE_06,S0024,2026-01-26,Partial delivery disruption,Medium,7.57,506607.66
+INC00152,SITE_11,S0034,2026-02-01,Partial delivery disruption,High,7.63,302524.2
+INC00153,SITE_07,S0101,2026-01-04,Partial delivery disruption,Medium,2.38,194223.43
+INC00154,SITE_10,S0098,2026-01-26,Partial delivery disruption,Low,1.69,48793.84
+INC00155,SITE_09,S0084,2026-04-20,Partial delivery disruption,Medium,3.36,256632.97
+INC00156,SITE_01,S0064,2025-12-09,Quality-related rework,Medium,7.75,353419.47
+INC00157,SITE_06,S0055,2026-02-25,Partial delivery disruption,Medium,7.08,380253.8
+INC00158,SITE_05,S0014,2026-01-23,Partial delivery disruption,Medium,7.75,310023.92
+INC00159,SITE_04,S0047,2026-02-27,Partial delivery disruption,Low,2.43,81540.47
+INC00160,SITE_09,S0020,2026-03-23,Transport delay,Low,0.53,28954.07
+INC00161,SITE_10,S0028,2026-01-21,Partial delivery disruption,Medium,7.81,338379.2
+INC00162,SITE_06,S0091,2026-01-26,Partial delivery disruption,Low,1.31,77466.81
+INC00163,SITE_01,S0083,2025-12-31,Delayed critical spare,Medium,4.81,134697.83
+INC00164,SITE_01,S0016,2026-03-22,Transport delay,Medium,7.53,493506.02
+INC00165,SITE_03,S0029,2026-03-26,Partial delivery disruption,High,15.5,873779.34
+INC00166,SITE_10,S0031,2026-04-04,Partial delivery disruption,High,11.59,750274.15
+INC00167,SITE_04,S0109,2026-03-28,Partial delivery disruption,Medium,6.19,378245.01
+INC00168,SITE_05,S0096,2026-02-18,Transport delay,Medium,7.24,363959.88
+INC00169,SITE_12,S0054,2025-11-12,Partial delivery disruption,Medium,5.95,351127.55
+INC00170,SITE_03,S0043,2026-03-10,Partial delivery disruption,Medium,2.1,75286.93
+INC00171,SITE_11,S0032,2026-02-26,Partial delivery disruption,Medium,6.86,449479.27
+INC00172,SITE_04,S0070,2025-12-13,Partial delivery disruption,Medium,5.8,490252.08
+INC00173,SITE_05,S0005,2026-03-21,Partial delivery disruption,Medium,2.87,191209.38
+INC00174,SITE_04,S0027,2026-01-30,Partial delivery disruption,Low,0.5,24639.6
+INC00175,SITE_11,S0115,2025-12-17,Partial delivery disruption,Critical,39.03,3033874.96
+INC00176,SITE_05,S0084,2025-11-12,Transport delay,High,10.89,388508.07
+INC00177,SITE_11,S0022,2026-01-08,Partial delivery disruption,Medium,4.51,165454.1
+INC00178,SITE_11,S0046,2025-11-22,Partial delivery disruption,High,8.94,366579.35
+INC00179,SITE_06,S0005,2025-12-04,Partial delivery disruption,Low,1.62,82065.17
+INC00180,SITE_08,S0078,2025-12-16,Partial delivery disruption,Medium,3.57,229743.09
+INC00181,SITE_07,S0025,2026-01-13,Partial delivery disruption,Low,2.07,67589.8
+INC00182,SITE_01,S0094,2025-11-29,Partial delivery disruption,Medium,2.42,192832.63
+INC00183,SITE_10,S0048,2025-11-14,Partial delivery disruption,Low,0.56,29719.56
+INC00184,SITE_01,S0104,2026-01-02,Transport delay,Medium,3.18,245728.38
+INC00185,SITE_06,S0007,2026-01-19,Partial delivery disruption,High,14.73,669710.31
+INC00186,SITE_05,S0093,2026-03-09,Quality-related rework,Medium,6.64,310681.08
+INC00187,SITE_05,S0084,2025-10-29,Partial delivery disruption,Low,2.77,140180.52
+INC00188,SITE_09,S0105,2026-03-25,Partial delivery disruption,Low,1.24,68265.95
+INC00189,SITE_01,S0023,2026-04-24,Delayed critical spare,Low,1.92,77981.05
+INC00190,SITE_01,S0048,2025-12-21,Partial delivery disruption,Medium,2.34,73568.27
+INC00191,SITE_04,S0027,2025-11-29,Quality-related rework,Low,1.3,37317.38
+INC00192,SITE_12,S0008,2026-03-19,Partial delivery disruption,Medium,4.11,209617.92
+INC00193,SITE_05,S0105,2025-11-09,Partial delivery disruption,High,12.35,490043.76
+INC00194,SITE_04,S0059,2025-12-13,Partial delivery disruption,High,10.1,276185.7
+INC00195,SITE_10,S0058,2025-12-07,Documentation hold,Low,1.54,83621.29
+INC00196,SITE_01,S0030,2025-10-28,Quality-related rework,Low,1.96,123561.09
+INC00197,SITE_12,S0051,2025-11-02,Partial delivery disruption,High,15.41,956719.73
+INC00198,SITE_04,S0059,2026-01-25,Partial delivery disruption,Medium,3.8,320402.25
+INC00199,SITE_01,S0035,2026-03-14,Transport delay,Low,1.26,101774.66
+INC00200,SITE_01,S0109,2026-01-29,Partial delivery disruption,Critical,28.9,1660595.15
+INC00201,SITE_01,S0073,2026-04-13,Partial delivery disruption,High,17.98,525439.97
+INC00202,SITE_01,S0045,2026-01-09,Delayed critical spare,Medium,7.99,604300.03
+INC00203,SITE_06,S0019,2026-03-22,Partial delivery disruption,Low,1.96,82548.15
+INC00204,SITE_07,S0085,2026-04-25,Partial delivery disruption,Medium,3.55,174124.1
+INC00205,SITE_01,S0065,2025-11-17,Partial delivery disruption,Medium,6.64,336669.5
+INC00206,SITE_12,S0101,2025-11-04,Partial delivery disruption,High,6.13,361603.2
+INC00207,SITE_02,S0015,2025-10-16,Partial delivery disruption,Medium,4.28,290701.57
+INC00208,SITE_03,S0109,2026-01-20,Partial delivery disruption,Medium,3.98,259268.8
+INC00209,SITE_04,S0042,2026-02-19,Delayed critical spare,Medium,4.86,269853.84
+INC00210,SITE_03,S0072,2026-01-19,Partial delivery disruption,High,14.93,1082758.16
+INC00211,SITE_08,S0040,2026-04-15,Quality-related rework,Low,2.48,92264.21
+INC00212,SITE_05,S0090,2025-12-09,Quality-related rework,Medium,6.2,295326.82
+INC00213,SITE_04,S0014,2026-03-03,Quality-related rework,Medium,5.0,327480.46
+INC00214,SITE_11,S0094,2026-02-02,Delayed critical spare,Medium,7.19,221980.64
+INC00215,SITE_03,S0027,2026-03-30,Delayed critical spare,Low,1.62,123643.88
+INC00216,SITE_01,S0056,2026-04-24,Documentation hold,Critical,40.2,3322807.14
+INC00217,SITE_08,S0118,2026-02-22,Partial delivery disruption,Medium,6.4,451172.95
+INC00218,SITE_12,S0014,2026-02-03,Partial delivery disruption,Medium,3.71,290160.07
+INC00219,SITE_02,S0038,2026-02-22,Partial delivery disruption,Medium,4.48,199972.5
+INC00220,SITE_05,S0071,2026-03-24,Partial delivery disruption,Medium,5.51,211056.09
+INC00221,SITE_02,S0024,2026-01-19,Partial delivery disruption,Medium,6.56,360889.56
+INC00222,SITE_11,S0020,2026-04-12,Partial delivery disruption,Medium,3.03,101276.56
+INC00223,SITE_05,S0024,2026-03-10,Transport delay,Medium,7.3,437049.93
+INC00224,SITE_06,S0065,2025-11-21,Partial delivery disruption,Low,0.57,17451.76
+INC00225,SITE_06,S0041,2026-04-09,Partial delivery disruption,Low,0.65,40679.47
+INC00226,SITE_09,S0100,2026-01-28,Partial delivery disruption,Low,0.61,50623.2
+INC00227,SITE_02,S0040,2026-01-08,Partial delivery disruption,Low,1.38,110892.06
+INC00228,SITE_07,S0051,2026-03-22,Partial delivery disruption,Critical,35.55,2893330.41
+INC00229,SITE_06,S0088,2026-04-11,Transport delay,Medium,5.13,396638.45
+INC00230,SITE_11,S0093,2025-11-05,Partial delivery disruption,Critical,26.33,1306685.06
+INC00231,SITE_07,S0112,2026-04-02,Partial delivery disruption,Low,2.31,109259.08
+INC00232,SITE_10,S0065,2025-12-02,Partial delivery disruption,Low,1.43,66010.05
+INC00233,SITE_03,S0035,2026-01-11,Partial delivery disruption,High,17.58,922421.91
+INC00234,SITE_06,S0031,2026-03-04,Partial delivery disruption,Low,1.43,94384.53
+INC00235,SITE_11,S0118,2026-03-04,Partial delivery disruption,Medium,6.12,380150.64
+INC00236,SITE_04,S0070,2026-04-10,Quality-related rework,Low,2.33,170840.17
+INC00237,SITE_06,S0115,2026-02-22,Partial delivery disruption,Low,0.88,70533.33
+INC00238,SITE_06,S0110,2026-02-11,Documentation hold,Medium,7.25,427086.21
+INC00239,SITE_10,S0020,2026-03-18,Transport delay,Critical,26.6,1575368.63
+INC00240,SITE_02,S0058,2026-02-07,Transport delay,High,8.29,648425.66
+INC00241,SITE_10,S0053,2026-04-20,Quality-related rework,Medium,3.39,122212.49
+INC00242,SITE_03,S0008,2026-02-07,Partial delivery disruption,High,10.09,346225.25
+INC00243,SITE_04,S0058,2025-11-25,Partial delivery disruption,Low,1.53,96067.96
+INC00244,SITE_09,S0045,2026-04-12,Partial delivery disruption,Medium,2.79,160223.14
+INC00245,SITE_02,S0004,2026-01-31,Partial delivery disruption,Low,2.68,175466.32
+INC00246,SITE_02,S0105,2026-03-01,Transport delay,Critical,28.85,2136728.65
+INC00247,SITE_11,S0030,2025-11-15,Partial delivery disruption,High,15.64,748286.13
+INC00248,SITE_06,S0040,2026-01-22,Partial delivery disruption,High,13.26,882276.03
+INC00249,SITE_11,S0103,2025-12-02,Partial delivery disruption,High,11.76,485141.67
+INC00250,SITE_05,S0093,2026-03-02,Partial delivery disruption,Low,0.82,40132.34
+INC00251,SITE_03,S0103,2026-02-28,Partial delivery disruption,High,15.87,1348355.05
+INC00252,SITE_02,S0073,2026-02-03,Partial delivery disruption,Medium,3.28,225565.83
+INC00253,SITE_02,S0010,2025-11-25,Partial delivery disruption,High,13.92,1153593.64
+INC00254,SITE_06,S0038,2026-01-18,Partial delivery disruption,Medium,7.3,330914.07
+INC00255,SITE_06,S0071,2026-01-05,Partial delivery disruption,Medium,4.87,372533.19
+INC00256,SITE_02,S0099,2026-01-18,Partial delivery disruption,Low,1.61,101375.4
+INC00257,SITE_01,S0091,2026-03-12,Partial delivery disruption,Critical,23.26,1339713.1
+INC00258,SITE_04,S0016,2026-02-12,Partial delivery disruption,Low,1.1,49824.55
+INC00259,SITE_11,S0082,2026-02-08,Partial delivery disruption,Medium,4.03,204874.62
+INC00260,SITE_02,S0030,2025-11-04,Quality-related rework,Low,1.14,56910.73
+INC00261,SITE_06,S0018,2026-03-11,Partial delivery disruption,Medium,5.42,311026.51
+INC00262,SITE_04,S0103,2026-01-11,Quality-related rework,Low,2.19,68510.56
+INC00263,SITE_11,S0004,2026-04-24,Partial delivery disruption,High,8.86,391040.1
+INC00264,SITE_01,S0075,2026-01-05,Stockout shutdown,High,18.13,994256.79
+INC00265,SITE_01,S0078,2026-01-26,Stockout shutdown,Critical,47.21,1608792.92
+INC00266,SITE_01,S0105,2026-03-02,Stockout shutdown,High,9.4,493318.25
+INC00267,SITE_01,S0103,2026-01-12,Stockout shutdown,Medium,3.31,213216.71
+INC00268,SITE_01,S0101,2025-12-15,Stockout shutdown,High,14.62,1100348.49
+INC00269,SITE_01,S0060,2026-01-19,Stockout shutdown,High,13.33,867146.49
+INC00270,SITE_01,S0038,2026-03-09,Stockout shutdown,High,11.91,543130.87
+INC00271,SITE_02,S0012,2026-03-16,Stockout shutdown,Medium,5.67,392091.69
+INC00272,SITE_02,S0061,2026-03-30,Stockout shutdown,High,11.35,382815.88
+INC00273,SITE_03,S0022,2026-01-26,Stockout shutdown,High,10.58,997114.92
+INC00274,SITE_03,S0073,2026-03-23,Stockout shutdown,Medium,8.47,673652.27
+INC00275,SITE_03,S0081,2026-02-16,Stockout shutdown,Medium,3.55,261320.92
+INC00276,SITE_03,S0093,2026-03-23,Stockout shutdown,High,18.57,872377.02
+INC00277,SITE_03,S0108,2026-02-23,Stockout shutdown,Medium,9.98,804557.91
+INC00278,SITE_03,S0025,2026-03-23,Stockout shutdown,Medium,7.61,552141.82
+INC00279,SITE_04,S0025,2026-01-12,Stockout shutdown,High,13.1,855584.76
+INC00280,SITE_04,S0026,2026-01-12,Stockout shutdown,Medium,6.48,615042.53
+INC00281,SITE_04,S0074,2026-01-19,Stockout shutdown,High,14.84,655353.32
+INC00282,SITE_04,S0067,2026-03-23,Stockout shutdown,Critical,36.52,1202171.06
+INC00283,SITE_04,S0115,2025-12-08,Stockout shutdown,Critical,22.69,1339509.7
+INC00284,SITE_04,S0102,2025-12-15,Stockout shutdown,High,14.27,728443.66
+INC00285,SITE_06,S0036,2026-03-23,Stockout shutdown,Medium,3.02,246129.66
+INC00286,SITE_07,S0019,2025-12-29,Stockout shutdown,High,13.85,950534.79
+INC00287,SITE_07,S0084,2026-03-30,Stockout shutdown,Critical,40.09,2903416.97
+INC00288,SITE_07,S0071,2026-02-02,Stockout shutdown,Medium,5.75,412484.77
+INC00289,SITE_08,S0065,2025-12-08,Stockout shutdown,High,8.37,751389.06
+INC00290,SITE_08,S0064,2026-03-16,Stockout shutdown,High,10.83,746892.72
+INC00291,SITE_09,S0063,2025-12-22,Stockout shutdown,High,9.5,821295.69
+INC00292,SITE_09,S0068,2025-12-29,Stockout shutdown,High,18.97,1211589.06
+INC00293,SITE_09,S0120,2026-01-05,Stockout shutdown,Medium,5.72,180687.15
+INC00294,SITE_09,S0082,2026-03-30,Stockout shutdown,Medium,3.29,112689.64
+INC00295,SITE_10,S0003,2026-03-02,Stockout shutdown,High,14.16,1079989.26
+INC00296,SITE_10,S0109,2026-02-23,Stockout shutdown,High,10.87,536585.81
+INC00297,SITE_11,S0115,2026-01-26,Stockout shutdown,Medium,4.9,177792.64
+INC00298,SITE_11,S0080,2026-03-30,Stockout shutdown,High,8.09,645404.92
+INC00299,SITE_12,S0074,2026-03-30,Stockout shutdown,High,8.29,679894.42
+INC00300,SITE_12,S0008,2026-01-05,Stockout shutdown,High,13.65,1239697.42
+INC00301,SITE_12,S0063,2026-02-23,Stockout shutdown,Medium,6.68,532992.3
+INC00302,SITE_12,S0051,2026-03-30,Stockout shutdown,Medium,7.72,462222.95
+INC00303,SITE_12,S0042,2026-02-09,Stockout shutdown,Medium,7.21,446673.17
+INC00304,SITE_12,S0118,2026-03-02,Stockout shutdown,Medium,7.05,410565.21

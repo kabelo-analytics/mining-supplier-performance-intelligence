@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mining Supplier Performance & Procurement Efficiency Intelligence</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Instrument+Sans:ital,wght@0,400;0,500;0,600;1,400&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    :root { --bg:#101513; --panel:#171d1a; --panel2:#0f1412; --text:#f5f4ef; --muted:#c7c1b8; --soft:#8f968e; --line:#2a312d; --accent:#9dc08b; --serif:'DM Serif Display', Georgia, serif; --sans:'Instrument Sans', system-ui, sans-serif; --mono:'DM Mono', monospace; }
+    * { box-sizing:border-box; } body { margin:0; background:var(--bg); color:var(--text); font-family:var(--sans); line-height:1.7; }
+    .page { max-width:980px; margin:0 auto; padding:2rem 1.5rem 4rem; } .eyebrow { font-family:var(--mono); letter-spacing:.12em; text-transform:uppercase; color:var(--accent); font-size:.75rem; }
+    h1,h2 { font-family:var(--serif); font-weight:400; letter-spacing:-.02em; } h1 { font-size:3rem; line-height:1.05; margin:.6rem 0 1rem; } h2 { font-size:2rem; margin:2.5rem 0 1rem; }
+    p, li { color:var(--muted); } .grid { display:grid; gap:1rem; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); margin:2rem 0; } .card { background:var(--panel); border:1px solid var(--line); padding:1.25rem; border-radius:16px; }
+    .label { font-family:var(--mono); text-transform:uppercase; font-size:.72rem; color:var(--soft); } .value { font-size:2rem; margin:.4rem 0; color:var(--text); } .section { padding-top:1rem; border-top:1px solid var(--line); margin-top:2rem; }
+    .rec { padding:1rem 1.1rem; background:var(--panel2); border-left:3px solid var(--accent); margin:1rem 0; } @media (max-width:700px) { h1 { font-size:2.25rem; } .page { padding:1.25rem 1rem 3rem; } }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <div class="eyebrow">Mining Operations Analytics</div>
+    <h1>Supplier Performance & Procurement Efficiency Intelligence</h1>
+    <p>This case study turns synthetic mining procurement data into a practical view of supplier reliability, inventory pressure, and operational risk. The focus is weekly decision support, not dashboard theatre.</p>
+    <div class="grid">
+      <div class="card"><div class="label">On-time delivery</div><div class="value">58.2%</div><p>Current delivery reliability across the frozen run.</p></div>
+      <div class="card"><div class="label">Highest-risk supplier</div><div class="value">S0014</div><p>Electrical Spares supplier with the highest combined operational risk score.</p></div>
+      <div class="card"><div class="label">Top stockout pressure</div><div class="value">Grinding Media</div><p>Highest current stockout exposure in the summary outputs.</p></div>
+      <div class="card"><div class="label">Highest-risk site</div><div class="value">SITE_01</div><p>Site with the strongest combined delay, stockout, and incident pressure.</p></div>
+    </div>
+    <div class="section"><h2>Problem</h2><p>Mining sites can absorb supplier underperformance for a while before it becomes visible in procurement reporting. Delays, partial deliveries, stockouts, and supplier-related incidents often appear as separate issues when they are really part of the same operating problem.</p></div>
+    <div class="section"><h2>Context</h2><p>The dataset models suppliers, purchase orders, deliveries, inventory status, incidents, and site summaries. The goal is to show how procurement and supplier data can be turned into operational supply reliability intelligence rather than a basic vendor scorecard.</p></div>
+    <div class="section"><h2>Dataset</h2><p>The run uses a fixed snapshot date and random state so the outputs stay reproducible. Strategic suppliers generally perform better, urgent orders move faster but cost more, and stockout pressure links back to late or weakly fulfilled deliveries without becoming perfectly correlated.</p></div>
+    <div class="section"><h2>Insights</h2><div class="rec"><strong>Supplier risk:</strong> Oreline Materials sits at the top of the current risk ranking. The issue is not price alone. It is the combination of delay, fulfilment quality, and operational exposure.</div><div class="rec"><strong>Inventory pressure:</strong> SITE_07 shows the strongest stockout pressure in Grinding Media, which points to a category-site control problem rather than a broad inventory issue.</div><div class="rec"><strong>Incident impact:</strong> Partial delivery disruption carries the largest combined downtime and cost impact in the current run, which makes supply reliability an operating KPI, not only a procurement KPI.</div></div>
+    <div class="section"><h2>Visuals</h2><p>The visuals stay intentionally simple and operational.</p><p><a href="../outputs/figures/supplier-risk-by-category.png">Supplier risk by category</a><br><a href="../outputs/figures/urgent-vs-standard-cycle.png">Urgent vs standard cycle time</a><br><a href="../outputs/figures/site-risk-overview.png">Site risk overview</a></p></div>
+    <div class="section"><h2>Recommendations</h2><ul><li>Escalate intervention on the highest-risk suppliers in critical categories before re-running sourcing decisions on cost alone.</li><li>Track urgent-order share by site and category as a planning pressure signal rather than a normal operating state.</li><li>Strengthen category-site controls where stockouts and delay exposure repeatedly overlap.</li><li>Bring downtime and incident cost into supplier governance so reliability is judged on operating impact, not just PO performance.</li></ul></div>
+    <div class="section"><h2>Tools</h2><p>Python, pandas, Jupyter, CSV exports, and GitHub-based portfolio publishing.</p></div>
+    <div class="section"><h2>Navigation</h2><p><a href="../outputs/insights.md" style="color:#9dc08b;">Read insights markdown</a></p></div>
+  </div>
+</body>
+</html>

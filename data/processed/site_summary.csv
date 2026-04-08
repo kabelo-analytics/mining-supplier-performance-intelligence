@@ -1,0 +1,13 @@
+site_id,province,site_type,monthly_procurement_value,supplier_count,delay_rate,stockout_rate,incident_rate
+SITE_01,North West,Open Pit,15990057.69,110,0.4751,0.1409,5.83
+SITE_02,Limpopo,Smelter,14510210.14,112,0.394,0.0364,4.83
+SITE_03,Free State,Processing Plant,14125656.55,113,0.3938,0.1318,4.83
+SITE_04,Mpumalanga,Underground,14892475.44,114,0.4114,0.1591,5.67
+SITE_05,Mpumalanga,Underground,13861527.94,114,0.3941,0.0136,3.67
+SITE_06,North West,Open Pit,14016900.24,113,0.4594,0.0364,4.67
+SITE_07,Limpopo,Smelter,13367762.76,110,0.4194,0.1364,3.33
+SITE_08,Mpumalanga,Smelter,14967938.1,116,0.4047,0.0545,4.0
+SITE_09,Limpopo,Underground,14209351.59,113,0.411,0.1227,3.17
+SITE_10,Limpopo,Underground,15306473.28,114,0.4138,0.0773,3.0
+SITE_11,Limpopo,Open Pit,13532146.72,111,0.4391,0.0682,4.0
+SITE_12,Free State,Underground,13608743.8,110,0.3974,0.1455,3.67

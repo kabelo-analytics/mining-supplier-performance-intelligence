@@ -1,0 +1,23 @@
+incident_type,operational_impact_level,incident_count,total_downtime_hours,total_cost_impact_zar,avg_downtime_hours
+Partial delivery disruption,High,39,452.06,26034195.28,11.591282051282052
+Partial delivery disruption,Critical,16,445.05,24220270.35,27.815625
+Partial delivery disruption,Medium,86,428.01,23478980.03,4.976860465116279
+Stockout shutdown,High,21,266.68,17153163.6,12.699047619047619
+Transport delay,Critical,5,151.01999999999998,8096993.43,30.203999999999997
+Stockout shutdown,Critical,4,146.51,7053890.65,36.6275
+Stockout shutdown,Medium,16,96.41,6494261.34,6.025625
+Quality-related rework,Critical,3,116.46000000000001,6256921.81,38.82
+Documentation hold,Critical,2,75.02000000000001,5139315.86,37.510000000000005
+Partial delivery disruption,Low,56,85.49,4490099.5,1.5266071428571428
+Delayed critical spare,Critical,2,48.49,3523471.66,24.245
+Delayed critical spare,Medium,10,55.39,3417764.36,5.539
+Transport delay,High,5,52.620000000000005,2791940.84,10.524000000000001
+Transport delay,Medium,7,42.27,2679997.83,6.038571428571429
+Quality-related rework,Medium,8,46.82,2515024.99,5.8525
+Delayed critical spare,High,3,37.62,1659672.68,12.54
+Documentation hold,Medium,3,16.490000000000002,1053216.34,5.496666666666667
+Quality-related rework,Low,8,15.86,690409.04,1.9825
+Delayed critical spare,Low,4,8.43,447858.72000000003,2.1075
+Documentation hold,Low,2,4.38,271499.07,2.19
+Documentation hold,High,1,9.76,254557.51,9.76
+Transport delay,Low,3,3.05,164497.6,1.0166666666666666

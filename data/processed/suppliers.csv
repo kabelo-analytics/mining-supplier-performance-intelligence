@@ -1,0 +1,121 @@
+supplier_id,supplier_name,category,region,supplier_tier,lead_time_days,contract_status,unit_cost_index,reliability_score,local_supplier_flag
+S0001,Vantage Mining Services,Explosives,Northern Cape,core,26,under_review,92.54,58.67,1
+S0002,Ironline Industrial,Electrical Spares,Northern Cape,core,26,under_review,101.63,52.74,1
+S0003,Metsi Supply,Reagents,North West,core,23,active,98.93,66.09,1
+S0004,Tshipi Resources,Tyres,Northern Cape,transactional,28,active,111.24,64.81,1
+S0005,Mhlabeni Materials,Tyres,Gauteng,core,25,active,109.99,70.22,1
+S0006,Kopano Mining Services,Conveyor Parts,KwaZulu-Natal,core,17,under_review,98.56,71.29,0
+S0007,Mhlabeni Mining Services,Explosives,Mpumalanga,core,26,active,117.94,69.34,1
+S0008,North Crest Procure,Reagents,North West,core,20,active,103.08,60.19,1
+S0009,Tshipi Resources,Grinding Media,Gauteng,strategic,19,active,98.11,84.21,1
+S0010,Ironline Resources,Explosives,Western Cape,core,25,active,106.96,73.43,0
+S0011,Oreline Industrial,Safety PPE,Mpumalanga,core,21,active,99.49,70.65,1
+S0012,Kopano Supply,General MRO,KwaZulu-Natal,core,16,under_review,100.1,65.3,0
+S0013,Metsi Industrial,Electrical Spares,Mpumalanga,transactional,34,active,84.92,57.8,1
+S0014,Oreline Materials,Electrical Spares,Mpumalanga,core,28,active,98.01,52.04,1
+S0015,Oreline Supply,Electrical Spares,Northern Cape,strategic,15,active,102.61,84.52,1
+S0016,North Crest Supply,Electrical Spares,Gauteng,core,25,active,94.14,66.49,1
+S0017,Mavuno Procure,Safety PPE,Western Cape,core,14,under_review,99.7,53.45,0
+S0018,Rockridge Resources,Diesel,Western Cape,core,14,active,103.32,64.68,0
+S0019,Oreline Mining Services,Conveyor Parts,Mpumalanga,core,18,active,96.26,55.49,1
+S0020,North Crest Supply,Tyres,North West,transactional,31,active,99.68,49.85,1
+S0021,Basalt Mining Services,Safety PPE,Gauteng,core,19,active,102.87,85.47,1
+S0022,Kopano Mining Services,Drill Consumables,Northern Cape,core,25,under_review,99.08,68.24,1
+S0023,Oreline Supply,Diesel,Northern Cape,transactional,31,active,95.12,77.62,1
+S0024,Oreline Mining Services,General MRO,North West,strategic,11,active,104.17,78.07,1
+S0025,North Crest Mining Services,Electrical Spares,Gauteng,strategic,18,probation,104.79,50.99,1
+S0026,Ironline Materials,Reagents,Gauteng,strategic,14,active,110.43,90.85,1
+S0027,Mavuno Industrial,Tyres,Gauteng,transactional,27,active,98.47,53.46,1
+S0028,Delta Shaft Materials,Conveyor Parts,Western Cape,core,19,active,101.56,69.25,0
+S0029,Basalt Industrial,Safety PPE,Northern Cape,strategic,18,active,101.61,86.5,1
+S0030,Kopano Resources,Tyres,Gauteng,core,17,active,107.79,61.72,1
+S0031,Tshipi Supply,Tyres,Western Cape,strategic,14,active,111.04,81.53,0
+S0032,Vantage Resources,Grinding Media,North West,core,22,active,86.06,70.32,1
+S0033,Basalt Mining Services,Explosives,Mpumalanga,core,24,active,98.8,83.91,1
+S0034,Delta Shaft Supply,Safety PPE,KwaZulu-Natal,core,19,active,91.33,72.64,0
+S0035,Vantage Industrial,Conveyor Parts,Western Cape,core,22,active,99.4,65.42,0
+S0036,Metsi Resources,Explosives,Northern Cape,core,21,active,104.04,75.76,1
+S0037,Metsi Procure,Conveyor Parts,Gauteng,core,23,active,98.66,59.04,1
+S0038,Mhlabeni Mining Services,Conveyor Parts,North West,strategic,13,active,108.92,76.06,1
+S0039,Oreline Resources,Grinding Media,North West,strategic,19,under_review,101.41,83.17,1
+S0040,Mavuno Materials,Reagents,North West,transactional,23,under_review,90.23,39.37,1
+S0041,Kopano Resources,Diesel,Northern Cape,transactional,25,active,82.19,54.71,1
+S0042,Ironline Supply,Electrical Spares,Western Cape,core,24,active,98.89,69.74,0
+S0043,Mavuno Mining Services,Electrical Spares,North West,core,28,active,102.7,60.23,1
+S0044,Kopano Mining Services,Drill Consumables,Northern Cape,transactional,28,active,93.39,63.37,1
+S0045,Kopano Resources,Explosives,Mpumalanga,transactional,32,active,91.78,54.97,1
+S0046,Tshipi Industrial,General MRO,KwaZulu-Natal,transactional,26,active,91.82,56.09,0
+S0047,Mhlabeni Mining Services,Tyres,Mpumalanga,core,17,active,101.57,77.24,1
+S0048,Rockridge Materials,Conveyor Parts,Gauteng,core,17,active,101.83,59.38,1
+S0049,Kopano Mining Services,Reagents,Northern Cape,strategic,23,active,117.35,83.52,1
+S0050,Ironline Materials,Electrical Spares,Gauteng,transactional,32,active,85.91,52.46,1
+S0051,Metsi Procure,Electrical Spares,North West,core,26,under_review,91.76,52.98,1
+S0052,Metsi Materials,Diesel,North West,core,15,active,101.74,85.89,1
+S0053,Metsi Mining Services,Drill Consumables,North West,core,22,probation,91.03,43.57,1
+S0054,Metsi Procure,Tyres,Gauteng,core,17,active,112.16,75.18,1
+S0055,Mhlabeni Mining Services,Tyres,Gauteng,strategic,9,under_review,120.55,65.71,1
+S0056,Mhlabeni Resources,Explosives,Western Cape,transactional,26,under_review,103.64,54.89,0
+S0057,Mhlabeni Mining Services,Safety PPE,Northern Cape,transactional,24,probation,85.21,38.0,1
+S0058,Delta Shaft Mining Services,Diesel,Gauteng,transactional,20,under_review,89.66,57.94,1
+S0059,Delta Shaft Resources,Electrical Spares,North West,core,20,under_review,83.11,56.91,1
+S0060,Oreline Industrial,Reagents,KwaZulu-Natal,core,27,active,97.83,69.76,0
+S0061,Oreline Procure,General MRO,Northern Cape,core,22,under_review,98.8,62.39,1
+S0062,Oreline Industrial,Electrical Spares,Western Cape,core,30,active,104.31,70.34,0
+S0063,Mhlabeni Mining Services,Drill Consumables,Western Cape,strategic,19,active,95.89,71.83,0
+S0064,Oreline Mining Services,General MRO,KwaZulu-Natal,core,18,active,109.41,72.37,0
+S0065,Kopano Resources,Tyres,Mpumalanga,strategic,10,under_review,114.64,72.35,1
+S0066,Basalt Mining Services,Drill Consumables,North West,core,20,active,97.6,72.86,1
+S0067,Metsi Materials,General MRO,Northern Cape,core,24,active,99.26,61.33,1
+S0068,Ironline Resources,Drill Consumables,Western Cape,strategic,15,active,103.0,88.28,0
+S0069,Oreline Industrial,Explosives,Gauteng,strategic,13,active,131.61,88.69,1
+S0070,Ironline Materials,Tyres,Western Cape,core,23,active,114.34,67.47,0
+S0071,North Crest Procure,Electrical Spares,Gauteng,strategic,15,active,118.49,75.59,1
+S0072,Basalt Supply,Diesel,Western Cape,transactional,29,active,92.28,57.6,0
+S0073,Basalt Supply,Tyres,Western Cape,core,14,active,99.25,52.47,0
+S0074,Basalt Supply,Diesel,Gauteng,core,17,active,107.79,65.68,1
+S0075,Tshipi Resources,Reagents,Mpumalanga,core,19,active,107.34,64.75,1
+S0076,Oreline Supply,Tyres,Gauteng,strategic,16,active,112.37,71.21,1
+S0077,Kopano Supply,Drill Consumables,KwaZulu-Natal,transactional,24,active,93.92,66.61,0
+S0078,Tshipi Mining Services,Grinding Media,Northern Cape,core,20,active,89.06,63.27,1
+S0079,Mavuno Resources,Safety PPE,Gauteng,transactional,26,active,98.93,61.72,1
+S0080,Rockridge Mining Services,Reagents,Mpumalanga,strategic,17,probation,109.98,57.17,1
+S0081,Mhlabeni Resources,General MRO,Northern Cape,core,14,under_review,98.22,61.21,1
+S0082,Mhlabeni Mining Services,Tyres,North West,core,23,active,96.0,71.32,1
+S0083,Vantage Resources,Diesel,Gauteng,transactional,22,active,86.86,70.5,1
+S0084,Ironline Resources,Conveyor Parts,Mpumalanga,core,20,active,103.61,67.53,1
+S0085,Mavuno Resources,Reagents,KwaZulu-Natal,core,26,under_review,97.91,57.67,0
+S0086,Delta Shaft Procure,Electrical Spares,KwaZulu-Natal,core,27,active,105.99,83.47,0
+S0087,Rockridge Resources,Explosives,North West,core,26,under_review,109.67,70.99,1
+S0088,Vantage Supply,Drill Consumables,Northern Cape,core,14,active,100.59,58.73,1
+S0089,Oreline Resources,Electrical Spares,KwaZulu-Natal,core,23,active,109.51,57.22,0
+S0090,Oreline Supply,Conveyor Parts,North West,strategic,17,active,100.35,90.17,1
+S0091,Basalt Resources,Tyres,Northern Cape,transactional,22,active,96.76,54.52,1
+S0092,Kopano Mining Services,Conveyor Parts,Northern Cape,transactional,26,active,94.31,65.52,1
+S0093,North Crest Procure,Conveyor Parts,Mpumalanga,strategic,14,active,102.78,69.97,1
+S0094,Ironline Supply,Drill Consumables,Gauteng,core,18,under_review,87.49,71.96,1
+S0095,Ironline Procure,Conveyor Parts,KwaZulu-Natal,strategic,15,active,108.27,84.1,0
+S0096,Tshipi Procure,Grinding Media,KwaZulu-Natal,core,20,active,102.65,64.33,0
+S0097,Vantage Resources,Grinding Media,Gauteng,core,22,active,99.07,81.8,1
+S0098,Mhlabeni Materials,Reagents,KwaZulu-Natal,core,30,active,98.59,70.45,0
+S0099,Delta Shaft Resources,Reagents,Northern Cape,transactional,29,active,89.6,63.02,1
+S0100,Vantage Industrial,Diesel,Gauteng,transactional,21,probation,95.91,40.09,1
+S0101,Rockridge Industrial,Conveyor Parts,Western Cape,strategic,10,active,110.23,87.21,0
+S0102,Vantage Mining Services,Diesel,Gauteng,transactional,30,probation,94.2,38.0,1
+S0103,North Crest Supply,Conveyor Parts,Western Cape,core,20,under_review,102.77,68.07,0
+S0104,Mhlabeni Industrial,Explosives,Mpumalanga,strategic,23,active,105.44,78.96,1
+S0105,Metsi Resources,Electrical Spares,Gauteng,core,23,under_review,100.25,75.55,1
+S0106,Mhlabeni Procure,Electrical Spares,Northern Cape,core,23,under_review,105.96,62.59,1
+S0107,Delta Shaft Supply,Electrical Spares,Gauteng,transactional,23,probation,94.22,40.61,1
+S0108,Mhlabeni Resources,Reagents,KwaZulu-Natal,transactional,29,active,80.44,63.69,0
+S0109,Delta Shaft Mining Services,Tyres,North West,core,19,active,105.53,62.65,1
+S0110,North Crest Supply,Electrical Spares,Northern Cape,transactional,24,active,93.67,45.65,1
+S0111,Rockridge Procure,Grinding Media,Western Cape,core,14,active,105.07,64.94,0
+S0112,Mavuno Materials,Electrical Spares,Western Cape,core,19,active,98.45,55.31,0
+S0113,Metsi Procure,Safety PPE,Mpumalanga,core,15,active,86.41,76.48,1
+S0114,Delta Shaft Resources,Tyres,Mpumalanga,transactional,20,active,94.66,59.79,1
+S0115,Oreline Supply,Safety PPE,KwaZulu-Natal,strategic,14,active,105.63,77.96,0
+S0116,Kopano Mining Services,Safety PPE,Western Cape,strategic,18,active,107.87,79.8,0
+S0117,Rockridge Resources,Explosives,Northern Cape,core,20,under_review,120.71,67.98,1
+S0118,Mavuno Procure,Diesel,Gauteng,transactional,24,under_review,86.47,44.53,1
+S0119,Kopano Materials,Grinding Media,KwaZulu-Natal,transactional,24,active,89.64,65.44,0
+S0120,Kopano Procure,Diesel,Gauteng,transactional,26,active,87.26,70.26,1
